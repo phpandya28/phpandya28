@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      /* CSS styles for the rocket animation */
+      .rocket-container {
+        position: relative;
+        width: 100px;
+        height: 100px;
+        animation: launch-rocket 2s infinite;
+      }
+      
+      @keyframes launch-rocket {
+        0% { top: 100%; }
+        100% { top: -100%; }
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Rocket Launching Animation</h1>
+    <div class="rocket-container">
+      <span style="font-size: 80px;">🚀</span>
+    </div>
+  </body>
+</html>
