@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parth !</h1>
-<h3 align="center">I'm Passionate about Programing, AI/ML and Astronomy Stuff, Founder at zetagravit.in</h3>
+<h3 align="center">I'm Passionate about Electronics Hardware, Semiconductors and Astronomy Stuff, Founder at zetagravit.in</h3>
 
 <p align="left"> <a href="https://twitter.com/phpandya28" target="blank"><img src="https://img.shields.io/twitter/follow/phpandya28?logo=twitter&style=for-the-badge" alt="phpandya28" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science and Programing from IIT Madras and persuing Electronics and Communication Engeneering from PDEU**
+- 🌱 I’m currently learning **Electronics and Communication Engeneering from PDEU**
 
 - 📝 I regularly write articles on [zetagravit.in](zetagravit.in)
 
